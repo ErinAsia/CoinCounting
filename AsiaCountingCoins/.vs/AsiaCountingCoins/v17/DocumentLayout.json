@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\coinprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:coinprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|c:\\users\\erin\\desktop\\coinscounting\\coincounting\\asiacountingcoins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC57FBF-C614-436C-9201-49DAD5F8FBAA}|AsiaCountingCoins.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:39:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:04:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\CoinProcessing.cs",
+              "RelativeDocumentMoniker": "CoinProcessing.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\CoinProcessing.cs",
+              "RelativeToolTip": "CoinProcessing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:29:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Filters.cs",
+              "RelativeDocumentMoniker": "Filters.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Filters.cs",
+              "RelativeToolTip": "Filters.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:26:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:23:24.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Erin\\Desktop\\CoinsCounting\\CoinCounting\\AsiaCountingCoins\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:21:57.621Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
